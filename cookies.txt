@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.purdue.edu	TRUE	/	FALSE	1999999999	BIGipServer~WEB~pool_lpXwebapa02.itap.purdue.edu_web	!+S92e9Pr2C9TvWRwkG1ltRqx7gddrBIRyWrx5L58DS/obg3pgGBlJ1i997FcccPw/Z4QrSwKfw==
+
